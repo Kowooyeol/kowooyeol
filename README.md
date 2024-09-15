@@ -1,4 +1,4 @@
-## Hi there 👋 my name is koowooyeol
+## Hi there 👋 my name is kowooyeol
 
 
 <!--
